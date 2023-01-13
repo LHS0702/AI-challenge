@@ -1,5 +1,7 @@
 # main
 
-Resnet 18\n
-Resnet 101\n
+Resnet 18
+
+Resnet 101
+
 Resnet 50
